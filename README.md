@@ -1,4 +1,4 @@
-In this project, let's build **Reusable Banners** by applying the concepts we have learned till now.
+In this project, I build **Reusable Banners** App.
 
 ### Refer to the image below:
 
@@ -30,10 +30,10 @@ In this project, let's build **Reusable Banners** by applying the concepts we ha
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionalities added</summary>
 <br/>
 
-The app must have the following functionalities
+The app has the following functionalities
 
 - The App is provided with `bannerCardsList`. It consists of a list of bannerCardItem objects with the following properties in each bannerCardItem object
 
@@ -44,16 +44,16 @@ The app must have the following functionalities
   | description |  String   |
   |  className  |  String   |
 
-- The value of the key `id` should be used as a key to the `BannerCardItem` component.
-- The value of the key `className` should be used as a className for the HTML list item in the `BannerCardItem` component.
+- The value of the key `id` is used as a key to the `BannerCardItem` component.
+- The value of the key `className` is used as a className for the HTML list item in the `BannerCardItem` component.
 
 </details>
 
 <details>
-<summary>Implementation Files</summary>
+<summary>Implemented Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these files to complete the implementation:
 
 - `src/App.js`
 - `src/App.css`
@@ -81,10 +81,3 @@ Use these files to complete the implementation:
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
